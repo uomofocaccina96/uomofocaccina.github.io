@@ -3,3 +3,9 @@
   font-family: Impact;
   text-align: center;
   }
+body {
+  background-color: lime;
+}
+input, p {
+  font-weight: bold;
+}
